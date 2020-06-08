@@ -1,4 +1,0 @@
-units:
-    script: "/testers/cs11cpp/lab01/units/test"
-convert:
-    script: "/testers/cs11cpp/lab01/convert/test"
