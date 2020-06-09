@@ -11,8 +11,8 @@ the pragmatic use of the chosen language, building his or her familiarity,
 experience, and style."
 
 
-Contents of the labs:
+Contents of the labs:  
     Lab 1-4: Unit Converters that progressively build on elements of the
-             previous labs
-    Lab 5: A rational number class with arithmetic and other operations
-    Lab 6-7: A 2D matrix class with arithmetic and other operations
+             previous labs.  
+    Lab 5: A rational number class with arithmetic and other operations.  
+    Lab 6-7: A 2D matrix class with arithmetic and other operations.  
