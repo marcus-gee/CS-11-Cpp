@@ -13,6 +13,6 @@ experience, and style."
 
 Contents of the labs:
     Lab 1-4: Unit Converters that progressively build on elements of the
-             previous labs.\n
-    Lab 5: A rational number class with arithmetic and other operations.\n
-    Lab 6-7: A 2D matrix class with arithmetic and other operations.\n
+             previous labs.  
+    Lab 5: A rational number class with arithmetic and other operations.  
+    Lab 6-7: A 2D matrix class with arithmetic and other operations.  
