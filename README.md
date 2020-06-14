@@ -16,3 +16,5 @@ Contents:
              previous labs.  
     Lab 5: A rational number class with arithmetic and other operations.  
     Lab 6-7: A 2D matrix class with arithmetic and other operations.  
+
+Course completed: Spring 2019-20
