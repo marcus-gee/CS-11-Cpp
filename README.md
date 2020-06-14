@@ -11,7 +11,7 @@ the pragmatic use of the chosen language, building his or her familiarity,
 experience, and style."
 
 
-Contents of the labs:  
+Contents:  
     Lab 1-4: Unit Converters that progressively build on elements of the
              previous labs.  
     Lab 5: A rational number class with arithmetic and other operations.  
